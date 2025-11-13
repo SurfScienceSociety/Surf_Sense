@@ -1,1 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
 
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Dados / outputs
+data/
+*.db
+*.sqlite
+*.mp4
+*.avi
+*.csv
+*.log
