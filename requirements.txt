@@ -1,1 +1,8 @@
-
+PyQt5
+pandas
+numpy
+opencv-python
+matplotlib
+pyqtgraph
+PyOpenGL
+cartopy
