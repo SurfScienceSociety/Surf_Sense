@@ -1,0 +1,18 @@
+surf-data-tools/
+├─ README.md
+├─ .gitignore
+├─ requirements.txt
+├─ src/
+│  └─ surfsense/
+│     ├─ __init__.py
+│     ├─ main_app.py              # vindo do SurfDataProcessingTool.py
+│     ├─ dashboard.py             # vindo do Dashboard_V3_working.py
+│     ├─ gps_visualizer.py        # vindo do gpsVisualizer.py
+│     └─ legacy/
+│        ├─ Dashboard_V2.py
+│        ├─ Dashboard_V3.py
+│        └─ SurfDataProcessingTool_copy.py
+├─ data/
+│  └─ .gitkeep                    # (pasta para dados locais, git-ignore)
+└─ tests/
+   └─ test_imports.py
