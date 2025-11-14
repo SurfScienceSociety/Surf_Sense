@@ -13,8 +13,6 @@ surf-data-tools/
 │        ├─ Dashboard_V3.py
 │        └─ SurfDataProcessingTool_copy.py
 ├─ data/
-!   └─ private/                     # (pasta para dados locais, git-ignore)
+!   └─ private/
+|      └─ .gitkeep                # (pasta para dados locais, git-ignore)
 │   └─ example/
-|      └─ .gitkeep                  # (pasta para dados locais, git-ignore)
-└─ tests/
-   └─ test_imports.py
